@@ -1,7 +1,7 @@
 {
-  "name": "@snapshot-labs/snapshot.js",
+  "name": "moversnapshotjs",
   "version": "0.2.6",
-  "repository": "snapshot-labs/snapshot.js",
+  "repository": "viaMover/snapshot.js",
   "license": "MIT",
   "main": "dist/snapshot.cjs.js",
   "module": "dist/snapshot.esm.js",
